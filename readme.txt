@@ -6,4 +6,5 @@ dev branch
 Creating a new branch is quick AND simple. for master
 I think I should spend some time to worry about my homework.
 good things
-I am very happy
+I am very sad
+ SO I write some code
