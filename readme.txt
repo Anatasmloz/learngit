@@ -3,3 +3,4 @@ Git is free software available under GPL.
 The first change.
 Git tracks changes of files.
 dev branch
+Creating a new branch is quick AND simple.
